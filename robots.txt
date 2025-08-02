@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aetherlinkshop.com/sitemap.xml
